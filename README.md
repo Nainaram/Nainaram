@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm NainaRam</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate  developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nainaram&label=Profile%20views&color=0e75b6&style=flat" alt="nainaram" /> </p>
 
@@ -8,8 +8,6 @@
 - 🌱 I’m currently learning **React js**
 
 - 👯 I’m looking to collaborate on **RAMAYAN-THEGAME**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Nainaram](https://github.com/Nainaram)
 
 - 💬 Ask me about **JavaScript**
 
